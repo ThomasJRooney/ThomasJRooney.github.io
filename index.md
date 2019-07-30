@@ -330,8 +330,8 @@ body.custom-background { background-color: #ffffff; }
 
 
 <div id="footer">
-    <p class="copy">Hello world<br>
-        © Copyright 2013 Gridster Demo - Theme: Gridster by <a href="http://themefurnace.com" rel="designer">ThemeFurnace</a>.</p>
+    <p class="copy"><br>
+        © 2019 Thomas Rooney<a href="http://tThomasJRooney.github.io" rel="designer">Thomas Rooney</a>.</p>
 </div>
 </div><!-- main -->
 <script type="text/javascript" src="http://themefurnacedemos.com/gridster/wp-content/themes/Gridster/js/selectbox.js?ver=20130115"></script>
