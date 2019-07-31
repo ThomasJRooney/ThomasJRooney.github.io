@@ -63,10 +63,10 @@
   <section class="jumbotron text-center" style="background-image: url(https://www.askaboutgames.com/wp-content/uploads/2018/03/pexels-photo-247791.png); background-size: 100%;">
     <div class="container">
       <p>
-        <a href="#" class="btn btn-outline-primary my-2">Projects</a>
-        <a href="#" class="btn btn-outline-primary my-2">Resume</a>
-        <a href="#" class="btn btn-outline-primary my-2">LinkedIn</a>
-        <a href="#" class="btn btn-outline-primary my-2">Contact</a>
+        <a href="#" class="btn btn-primary my-2">Projects</a>
+        <a href="#" class="btn btn-primary my-2">Resume</a>
+        <a href="#" class="btn btn-primary my-2">LinkedIn</a>
+        <a href="#" class="btn btn-primary my-2">Contact</a>
       </p>
     </div>
   </section>
@@ -79,11 +79,11 @@
           <div class="card mb-4 shadow-sm">
             <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Grojo: Personal Productivity & Journaling Software</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">See Site</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">View Code</button>
                 </div>
                 <small class="text-muted">9 mins</small>
               </div>
