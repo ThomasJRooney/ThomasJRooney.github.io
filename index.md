@@ -47,7 +47,7 @@
 
 <main role="main">
 
-  <section class="jumbotron text-center" style="background-image: url(https://www.askaboutgames.com/wp-content/uploads/2018/03/pexels-photo-247791.png); background-size: 200%;">
+  <section class="jumbotron text-center" style="padding: 5em inherit; background-image: url(https://www.askaboutgames.com/wp-content/uploads/2018/03/pexels-photo-247791.png); background-size: 100%;">
     <div class="container">
       <p>
         <a href="#downpage" class="btn btn-primary my-2">Projects</a>
