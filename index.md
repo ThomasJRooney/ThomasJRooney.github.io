@@ -60,7 +60,7 @@
 
 <main role="main">
 
-  <section class="jumbotron text-center">
+  <section class="jumbotron text-center" style="background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/oqtafyt5ktw-ilya-pavlov-796x532.jpg); background-size: 100%;">
     <div class="container">
       <h1 class="jumbotron-heading">Thomas Rooney</h1>
       <p>
