@@ -60,7 +60,7 @@
 
   <div class="album py-5 bg-white">
     <div id="downpage" class="container">
-      <h2 class="text-center">Projects</h2>
+      <h2 class="text-center" style="margin-bottom: 2em; margin-top: 2em;">Projects</h2>
       <div class="row">
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
