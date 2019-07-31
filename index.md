@@ -62,7 +62,6 @@
 
   <section class="jumbotron text-center" style="background-image: url(https://www.askaboutgames.com/wp-content/uploads/2018/03/pexels-photo-247791.png); background-size: 100%;">
     <div class="container">
-      <h1 class="jumbotron-heading"></h1>
       <p>
         <a href="#" class="btn btn-primary my-2">Projects</a>
         <a href="#" class="btn btn-secondary my-2">Resume</a>
