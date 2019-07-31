@@ -65,7 +65,7 @@
       <p>
         <a href="#" class="btn btn-primary my-2">Projects</a>
         <a href="#" class="btn btn-primary my-2">Resume</a>
-        <a href="#" class="btn btn-primary my-2">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/thomas-rooney-aaaa18188/" class="btn btn-primary my-2">LinkedIn</a>
         <a href="#" class="btn btn-primary my-2">Contact</a>
       </p>
     </div>
