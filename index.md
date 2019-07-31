@@ -49,7 +49,7 @@
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
       <a href="#" class="navbar-brand d-flex align-items-center">
-        <strong></strong>
+        <strong>Thomas Rooney</strong>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -60,9 +60,9 @@
 
 <main role="main">
 
-  <section class="jumbotron text-center" style="background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/oqtafyt5ktw-ilya-pavlov-796x532.jpg); background-size: 50%;">
+  <section class="jumbotron text-center" style="background-image: url(https://www.askaboutgames.com/wp-content/uploads/2018/03/pexels-photo-247791.png); background-size: 100%;">
     <div class="container">
-      <h1 class="jumbotron-heading">Thomas Rooney</h1>
+      <h1 class="jumbotron-heading"></h1>
       <p>
         <a href="#" class="btn btn-primary my-2">Projects</a>
         <a href="#" class="btn btn-secondary my-2">Resume</a>
