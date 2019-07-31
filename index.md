@@ -82,8 +82,8 @@
               <p class="card-text">Grojo: Personal Productivity & Gratitude Journaling Web App</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">See Site</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Code</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
             </div>
@@ -96,8 +96,8 @@
               <p class="card-text">AI, Machine Learning Forex Trading Robot</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group text-center">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">See Site</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Code</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
             </div>
@@ -110,8 +110,8 @@
               <p class="card-text"></p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">See Site</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Code</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
             </div>
@@ -125,8 +125,8 @@
               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">See Site</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Code</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
             </div>
@@ -139,8 +139,8 @@
               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">See Site</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Code</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
             </div>
@@ -153,8 +153,8 @@
               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">See Site</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Code</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
+                  <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
             </div>
