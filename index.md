@@ -28,7 +28,7 @@
   </head>
   <body>
     <header>
-  <div class="bg-dark" id="navbarHeader">
+  <div class="collapse bg-dark" id="navbarHeader">
     <div class="container">
       <div class="row">
         <div class="col-sm-8 col-md-7 py-4">
@@ -41,9 +41,6 @@
       <a href="#" class="navbar-brand d-flex align-items-center">
         <strong>Thomas Rooney</strong>
       </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
     </div>
   </div>
 </header>
