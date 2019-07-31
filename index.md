@@ -59,9 +59,8 @@
   </section>
 
   <div class="album py-5 bg-white">
-    <div class="container">
-      <h2 id="downpage" class="text-center">Projects</h2>
-      <p></p>
+    <div id="downpage" class="container">
+      <h2 class="text-center">Projects</h2>
       <div class="row">
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
