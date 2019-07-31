@@ -49,7 +49,7 @@
 
   <section class="jumbotron text-center" style="height: 40%; background-image: url(https://www.askaboutgames.com/wp-content/uploads/2018/03/pexels-photo-247791.png); background-size: 100%;">
     <div class="container">
-      <p style="margin-top: 2em">
+      <p>
         <a href="#downpage" class="btn btn-primary my-2">Projects</a>
         <a href="#" class="btn btn-primary my-2">Resume</a>
         <a href="https://www.linkedin.com/in/thomas-rooney-aaaa18188/" class="btn btn-primary my-2">LinkedIn</a>
