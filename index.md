@@ -83,7 +83,6 @@
               <p class="card-text">AI Machine Learning Trading Robot</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group text-center">
-                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
                   <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
@@ -113,7 +112,6 @@
               <p class="card-text">Discrete Event Simulation</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
                   <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
@@ -127,7 +125,6 @@
               <p class="card-text">Turtle Adventure Game</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
                   <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
@@ -141,7 +138,6 @@
               <p class="card-text">IOS Game: Flappy Bird Clone</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-primary">See Site</button>
                   <button type="button" class="btn btn-sm btn-outline-primary">View Code</button>
                 </div>
               </div>
