@@ -166,7 +166,7 @@
   </div>
   <p></p>
   <div id="contact" class="container">
-  <h2 class="text-center" style="margin-bottom: 2em;">Contact</h2>
+  <h2 class="text-center" style="margin-bottom: 2em; margin-top: 2em;">Contact</h2>
     <div class="row">
       <div class="col-md-2">
       </div>
