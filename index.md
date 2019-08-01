@@ -50,16 +50,16 @@
   <section class="jumbotron text-center" style="height: 40%; background-image: url(https://www.askaboutgames.com/wp-content/uploads/2018/03/pexels-photo-247791.png); background-size: 100%;">
     <div class="container">
       <p style="margin-top: 2em;">
-        <a href="#downpage" class="btn btn-primary my-2">Projects</a>
-        <a href="#" class="btn btn-primary my-2">Resume</a>
+        <a href="#projects" class="btn btn-primary my-2">Projects</a>
+        <a href="#resume" class="btn btn-primary my-2">Resume</a>
         <a href="https://www.linkedin.com/in/thomas-rooney-aaaa18188/" class="btn btn-primary my-2">LinkedIn</a>
-        <a href="#" class="btn btn-primary my-2">Contact</a>
+        <a href="#contact" class="btn btn-primary my-2">Contact</a>
       </p>
     </div>
   </section>
   
-  <div class="album py-5 bg-white">
-    <div id="downpage" class="container">
+  <div id="projects" class="album py-5 bg-white">
+    <div class="container">
       <h2 class="text-center" style="margin-bottom: 2em;">Projects</h2>
       <div class="row">
         <div class="col-md-4">
@@ -152,8 +152,9 @@
       </div>
     </div>
   </div>
-  <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2-nczMTLb5T19qsTfY2Bod25FT6CJeVKzK8CRK74dPm4WSoDS9nKQK_BuYo79f44-US8hf9ydv3KR/pub?embedded=true" style="text-align: center;"></iframe>
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="640" height="751" frameborder="0" marginheight="0" marginwidth="0" style="text-align: center;">Loading…</iframe>
+  <iframe id="resume" src="https://docs.google.com/document/d/e/2PACX-1vQ2-nczMTLb5T19qsTfY2Bod25FT6CJeVKzK8CRK74dPm4WSoDS9nKQK_BuYo79f44-US8hf9ydv3KR/pub?embedded=true" style="text-align: center;"></iframe>
+  
+  <iframe id="contact" src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="640" height="751" frameborder="0" marginheight="0" marginwidth="0" style="text-align: center;">Loading…</iframe>
 
 </main>
 
