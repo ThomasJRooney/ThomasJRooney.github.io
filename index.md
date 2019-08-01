@@ -152,10 +152,26 @@
       </div>
     </div>
   </div>
-  <iframe id="resume" src="https://docs.google.com/document/d/e/2PACX-1vQ2-nczMTLb5T19qsTfY2Bod25FT6CJeVKzK8CRK74dPm4WSoDS9nKQK_BuYo79f44-US8hf9ydv3KR/pub?embedded=true" width="75%" height="100%" marginheight="0" marginwidth="0" style="text-align: center; margin-left: auto; margin-right: auto;"></iframe>
+  <iframe id="resume" src="https://docs.google.com/document/d/e/2PACX-1vQ2-nczMTLb5T19qsTfY2Bod25FT6CJeVKzK8CRK74dPm4WSoDS9nKQK_BuYo79f44-US8hf9ydv3KR/pub?embedded=true" width="" height="" marginheight="0" marginwidth="0" style="float: none;
+        clear: both;
+        width: 700px;<-- Added-->
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 25px;
+        height: 0;
+        margin: 0 auto;<-- Added-->
+        max-width: 100%;<-- Added-->"></iframe>
   <p></p>
   
-  <iframe id="contact" src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="640" height="751" frameborder="0" marginheight="0" marginwidth="0" style="text-align: center; margin-left: auto; margin-right: auto;">Loading…</iframe>
+  <iframe id="contact" src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="640" height="751" frameborder="0" marginheight="0" marginwidth="0" style="float: none;
+        clear: both;
+        width: 700px;<-- Added-->
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 25px;
+        height: 0;
+        margin: 0 auto;<-- Added-->
+        max-width: 100%;<-- Added-->">Loading…</iframe>
 
 </main>
 
