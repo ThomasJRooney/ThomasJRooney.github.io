@@ -154,24 +154,24 @@
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-2">
       </div>
-      <div class="col-md-4">
+      <div class="col-md-8">
   <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2-nczMTLb5T19qsTfY2Bod25FT6CJeVKzK8CRK74dPm4WSoDS9nKQK_BuYo79f44-US8hf9ydv3KR/pub?embedded=true" height="100%" width="100%"></iframe>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-2">
       </div>
   </div>
   </div>
   <p></p>
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-2">
       </div>
-      <div class="col-md-4">
+      <div class="col-md-8">
   <iframe id="contact" src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" style="text-align: center;">Loading…</iframe>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-2">
       </div>
   </div>
   </div>
