@@ -57,8 +57,7 @@
       </p>
     </div>
   </section>
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="640" height="751" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+  
   <div class="album py-5 bg-white">
     <div id="downpage" class="container">
       <h2 class="text-center" style="margin-bottom: 2em;">Projects</h2>
