@@ -152,7 +152,8 @@
       </div>
     </div>
   </div>
-  <div class="container">
+  <div id="resume" class="container">
+  <h2 class="text-center" style="margin-bottom: 2em;">Resume</h2>
     <div class="row">
       <div class="col-md-2">
       </div>
@@ -164,7 +165,8 @@
   </div>
   </div>
   <p></p>
-  <div class="container">
+  <div id="contact" class="container">
+  <h2 class="text-center" style="margin-bottom: 2em;">Contact</h2>
     <div class="row">
       <div class="col-md-2">
       </div>
