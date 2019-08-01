@@ -152,7 +152,7 @@
       </div>
     </div>
   </div>
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="640" height="751" frameborder="0" marginheight="0" marginwidth="0" class="text-center">Loading…</iframe>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="640" height="751" frameborder="0" marginheight="0" marginwidth="0" style="margin-left:auto; margin-right:auto;">Loading…</iframe>
 
 </main>
 
