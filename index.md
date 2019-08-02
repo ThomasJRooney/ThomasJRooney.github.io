@@ -73,8 +73,8 @@
               <p class="card-text">Grojo: Productivity Journaling Web App</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" href="https://grojo.herokuapp.com" class="btn btn-sm btn-outline-primary">See Site</button>
-                  <button href="https://github.com/ThomasJRooney/Grojo" type="button" class="btn btn-sm btn-outline-primary">View Code</button>
+                  <a href="https://grojo.herokuapp.com" class="btn btn-sm btn-outline-primary">See Site</a>
+                  <a href="https://github.com/ThomasJRooney/Grojo" class="btn btn-sm btn-outline-primary">View Code</a>
                 </div>
               </div>
             </div>
@@ -89,7 +89,7 @@
               <p class="card-text">AI Machine Learning Trading Robot</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group text-center">
-                  <button href="https://github.com/ThomasJRooney/Machine-Learning-Trading-Robot" type="button" class="btn btn-sm btn-outline-primary">View Code</button>
+                  <a href="https://github.com/ThomasJRooney/Machine-Learning-Trading-Robot" class="btn btn-sm btn-outline-primary">View Code</a>
                 </div>
               </div>
             </div>
@@ -104,7 +104,7 @@
               <p class="card-text">Simple Database Management System</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button href="https://github.com/ThomasJRooney/Simple-Database-Management-System" type="button" class="btn btn-sm btn-outline-primary">View Code</button>
+                  <a href="https://github.com/ThomasJRooney/Simple-Database-Management-System" class="btn btn-sm btn-outline-primary">View Code</a>
                 </div>
               </div>
             </div>
@@ -120,7 +120,7 @@
               <p class="card-text">Discrete Event Simulation</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button href="https://github.com/ThomasJRooney/Discrete-Event-Simulation" type="button" class="btn btn-sm btn-outline-primary">View Code</button>
+                  <a href="https://github.com/ThomasJRooney/Discrete-Event-Simulation" class="btn btn-sm btn-outline-primary">View Code</a>
                 </div>
               </div>
             </div>
@@ -135,7 +135,7 @@
               <p class="card-text">Turtle Adventure Game</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" href="https://github.com/ThomasJRooney/turtleadventuregame" class="btn btn-sm btn-outline-primary">View Code</button>
+                  <a href="https://github.com/ThomasJRooney/turtleadventuregame" class="btn btn-sm btn-outline-primary">View Code</a>
                 </div>
               </div>
             </div>
@@ -150,7 +150,7 @@
               <p class="card-text">IOS Game: Flappy Bird Clone</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" href="https://github.com/ThomasJRooney/Flappy-Bird" class="btn btn-sm btn-outline-primary">View Code</button>
+                  <a href="https://github.com/ThomasJRooney/Flappy-Bird" class="btn btn-sm btn-outline-primary">View Code</a>
                 </div>
               </div>
             </div>
