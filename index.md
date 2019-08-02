@@ -165,6 +165,7 @@
       <div class="col-md-2">
       </div>
       <div class="col-md-8">
+        <button class="btn btn-outline-primary" href="Resume_2019.pdf">Download Resume</button>
   <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2-nczMTLb5T19qsTfY2Bod25FT6CJeVKzK8CRK74dPm4WSoDS9nKQK_BuYo79f44-US8hf9ydv3KR/pub?embedded=true" height="100%" width="100%"></iframe>
       </div>
       <div class="col-md-2">
