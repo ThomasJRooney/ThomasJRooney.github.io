@@ -165,7 +165,7 @@
       <div class="col-md-2">
       </div>
       <div class="col-md-8">
-        <div class="btn-group" style="margin-right: 0;">
+        <div class="btn-group" id="ResumeButtons">
         <a class="btn btn-outline-primary" href="/Resume_2019.pdf">View as PDF</a>
         <a class="btn btn-outline-primary" href="/Resume_2019.pdf" download>Download PDF</a>
         </div>
