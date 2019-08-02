@@ -160,7 +160,7 @@
     </div>
   </div>
   <div id="resume" class="container">
-  <h2 class="text-center" style="margin-bottom: 2em;">Resume</h2>
+  <h2 class="text-center">Resume</h2>
     <div class="row">
       <div class="col-md-2">
       </div>
