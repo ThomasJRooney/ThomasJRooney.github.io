@@ -67,7 +67,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <a href="https://grojo.herokuapp.com">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://images.unsplash.com/photo-1527849172727-968e0a43c6a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://images.unsplash.com/photo-1523875176340-1298db8ee216?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
             </a>
             <div class="card-body">
               <p class="card-text">Grojo: Productivity Journaling Web App</p>
