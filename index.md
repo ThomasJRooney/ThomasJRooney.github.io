@@ -67,7 +67,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <a href="https://grojo.herokuapp.com">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://cdn.images.express.co.uk/img/dynamic/151/590x/simulation-737006.jpg">
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://images.unsplash.com/photo-1527849172727-968e0a43c6a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
             </a>
             <div class="card-body">
               <p class="card-text">Grojo: Productivity Journaling Web App</p>
@@ -129,7 +129,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
           <a href="https://github.com/ThomasJRooney/turtleadventuregame">
-          <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://cdn.images.express.co.uk/img/dynamic/151/590x/simulation-737006.jpg">
+          <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://i.pinimg.com/originals/08/a1/ab/08a1ab61ec844bb55181e936f7d604ba.jpg">
             
             </a>
             <div class="card-body">
