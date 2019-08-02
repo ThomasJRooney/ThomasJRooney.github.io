@@ -145,7 +145,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm ">
           <a href="https://github.com/ThomasJRooney/Flappy-Bird">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://cdn.images.express.co.uk/img/dynamic/151/590x/simulation-737006.jpg">
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://media1.giphy.com/media/gqcYcUPvKg3fi/source.gif">
             </a>
             <div class="card-body">
               <p class="card-text">IOS Game: Flappy Bird Clone</p>
