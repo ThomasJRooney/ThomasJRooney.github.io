@@ -162,12 +162,12 @@
   <div id="resume" class="container">
   <h2 class="text-center" style="margin-bottom: 2em;">Resume</h2>
     <div class="row">
-      <div class="col-md-1">
+      <div class="col-md-2">
       </div>
-      <div class="col-md-10">
+      <div class="col-md-8">
   <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2-nczMTLb5T19qsTfY2Bod25FT6CJeVKzK8CRK74dPm4WSoDS9nKQK_BuYo79f44-US8hf9ydv3KR/pub?embedded=true" height="100%" width="100%"></iframe>
       </div>
-      <div class="col-md-1">
+      <div class="col-md-2">
       </div>
   </div>
   </div>
