@@ -98,6 +98,7 @@
         <div class="col-md-4">
           <div class="card shadow-sm" >
             <a href="https://github.com/ThomasJRooney/Simple-Database-Management-System">
+              <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://www.darts-ip.com/wp-content/uploads/2019/04/Patent-Cases-Database.png">
             <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
             </a>
             <div class="card-body">
@@ -114,6 +115,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
           <a href="https://github.com/ThomasJRooney/Discrete-Event-Simulation">
+          <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://cdn.images.express.co.uk/img/dynamic/151/590x/simulation-737006.jpg">
             <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
             </a>
             <div class="card-body">
@@ -129,7 +131,8 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
           <a href="https://github.com/ThomasJRooney/turtleadventuregame">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+          <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://cdn.images.express.co.uk/img/dynamic/151/590x/simulation-737006.jpg">
+            
             </a>
             <div class="card-body">
               <p class="card-text">Turtle Adventure Game</p>
@@ -144,7 +147,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm ">
           <a href="https://github.com/ThomasJRooney/Flappy-Bird">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://cdn.images.express.co.uk/img/dynamic/151/590x/simulation-737006.jpg">
             </a>
             <div class="card-body">
               <p class="card-text">IOS Game: Flappy Bird Clone</p>
