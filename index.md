@@ -175,12 +175,12 @@
   <div id="contact" class="container">
   <h2 class="text-center" style="margin-bottom: 2em; margin-top: 2em;">Contact</h2>
     <div class="row">
-      <div class="col-md-2">
+      <div class="col-md-1">
       </div>
-      <div class="col-md-8">
+      <div class="col-md-10">
   <iframe id="contact" src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" style="text-align: center;">Loading…</iframe>
       </div>
-      <div class="col-md-2">
+      <div class="col-md-1">
       </div>
   </div>
   </div>
