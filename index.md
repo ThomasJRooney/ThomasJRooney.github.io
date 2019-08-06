@@ -86,7 +86,7 @@
               <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://images.unsplash.com/photo-1535320903710-d993d3d77d29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
             </a>
             <div class="card-body">
-              <p class="card-text">AI Machine Learning Trading Robot</p>
+              <p class="card-text">Machine Learning Trading Robot</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group text-center">
                   <a href="https://github.com/ThomasJRooney/Machine-Learning-Trading-Robot" class="btn btn-sm btn-outline-primary">View Code</a>
