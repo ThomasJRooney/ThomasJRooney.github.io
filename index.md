@@ -67,7 +67,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <a href="https://grojo.herokuapp.com">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://github.com/ThomasJRooney/ThomasJRooney.github.io/blob/master/Screen%20Shot%202019-08-06%20at%204.22.14%20PM.png">
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://raw.githubusercontent.com/ThomasJRooney/ThomasJRooney.github.io/master/Screen%20Shot%202019-08-06%20at%204.22.14%20PM.png">
             </a>
             <div class="card-body">
               <p class="card-text">Grojo: Productivity Journaling Web App</p>
