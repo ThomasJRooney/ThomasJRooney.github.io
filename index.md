@@ -47,7 +47,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <a href="https://grojo.herokuapp.com">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://raw.githubusercontent.com/ThomasJRooney/ThomasJRooney.github.io/master/Screen%20Shot%202019-08-06%20at%204.30.20%20PM.png">
+            <img class="bd-placeholder-img card-img-top" width="auto" height="225" src="https://raw.githubusercontent.com/ThomasJRooney/ThomasJRooney.github.io/master/Screen%20Shot%202019-08-06%20at%204.30.20%20PM.png">
             </a>
             <div class="card-body">
               <p class="card-text">Grojo: Productivity Journaling Web App</p>
@@ -63,7 +63,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <a href="https://github.com/ThomasJRooney/Machine-Learning-Trading-Robot">
-              <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://images.unsplash.com/photo-1535320903710-d993d3d77d29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
+              <img class="bd-placeholder-img card-img-top" width="auto" height="225" src="https://images.unsplash.com/photo-1535320903710-d993d3d77d29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
             </a>
             <div class="card-body">
               <p class="card-text">Machine Learning Trading Robot</p>
@@ -78,7 +78,7 @@
         <div class="col-md-4">
           <div class="card shadow-sm" >
             <a href="https://github.com/ThomasJRooney/Simple-Database-Management-System">
-              <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://www.darts-ip.com/wp-content/uploads/2019/04/Patent-Cases-Database.png">
+              <img class="bd-placeholder-img card-img-top" width="auto" height="225" src="https://www.darts-ip.com/wp-content/uploads/2019/04/Patent-Cases-Database.png">
             </a>
             <div class="card-body">
               <p class="card-text">Simple Database Management System</p>
@@ -94,7 +94,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
           <a href="https://github.com/ThomasJRooney/Discrete-Event-Simulation">
-          <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://cdn.images.express.co.uk/img/dynamic/151/590x/simulation-737006.jpg">
+          <img class="bd-placeholder-img card-img-top" width="auto" height="225" src="https://cdn.images.express.co.uk/img/dynamic/151/590x/simulation-737006.jpg">
             </a>
             <div class="card-body">
               <p class="card-text">Discrete Event Simulation</p>
@@ -109,7 +109,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
           <a href="https://github.com/ThomasJRooney/turtleadventuregame">
-          <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://raw.githubusercontent.com/ThomasJRooney/ThomasJRooney.github.io/master/Screen%20Shot%202019-08-05%20at%207.13.18%20PM.png">
+          <img class="bd-placeholder-img card-img-top" width="auto" height="225" src="https://raw.githubusercontent.com/ThomasJRooney/ThomasJRooney.github.io/master/Screen%20Shot%202019-08-05%20at%207.13.18%20PM.png">
             
             </a>
             <div class="card-body">
@@ -125,7 +125,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm ">
           <a href="https://github.com/ThomasJRooney/Flappy-Bird">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://media1.giphy.com/media/gqcYcUPvKg3fi/source.gif">
+            <img class="bd-placeholder-img card-img-top" width="auto" height="225" src="https://media1.giphy.com/media/gqcYcUPvKg3fi/source.gif">
             </a>
             <div class="card-body">
               <p class="card-text">IOS Game: Flappy Bird Clone</p>
@@ -153,7 +153,7 @@
         <a class="btn btn-outline-primary" id="ResumeButtons" href="/Resume_2019.pdf" download>Download PDF</a>
         </div>
         <p></p>
-  <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2-nczMTLb5T19qsTfY2Bod25FT6CJeVKzK8CRK74dPm4WSoDS9nKQK_BuYo79f44-US8hf9ydv3KR/pub?embedded=true" height="100%" width="100%"></iframe>
+  <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2-nczMTLb5T19qsTfY2Bod25FT6CJeVKzK8CRK74dPm4WSoDS9nKQK_BuYo79f44-US8hf9ydv3KR/pub?embedded=true" height="100%" width="auto"></iframe>
       </div>
       <div class="col-md-2">
       </div>
@@ -166,7 +166,7 @@
       <div class="col-md-2">
       </div>
       <div class="col-md-8">
-  <iframe id="contact" src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" style="text-align: center;">Loading…</iframe>
+  <iframe id="contact" src="https://docs.google.com/forms/d/e/1FAIpQLSdsRnbYVI5bsjuZPThIPxL_9Hv0lE1x8b0kYoN21lTSKBPYjg/viewform?embedded=true" width="auto" height="100%" frameborder="0" marginheight="0" marginwidth="0" style="text-align: center;">Loading…</iframe>
       </div>
       <div class="col-md-2">
       </div>
