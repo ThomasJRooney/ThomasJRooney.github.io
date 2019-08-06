@@ -129,7 +129,7 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
           <a href="https://github.com/ThomasJRooney/turtleadventuregame">
-          <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://i.pinimg.com/originals/08/a1/ab/08a1ab61ec844bb55181e936f7d604ba.jpg">
+          <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="https://raw.githubusercontent.com/ThomasJRooney/ThomasJRooney.github.io/master/Screen%20Shot%202019-08-05%20at%207.13.18%20PM.png">
             
             </a>
             <div class="card-body">
