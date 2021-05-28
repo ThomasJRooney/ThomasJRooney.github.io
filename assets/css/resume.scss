@@ -1,0 +1,182 @@
+/* print view */
+@media print {
+  * {
+    font-size: 14px;
+  }
+
+  // hide header
+  .core-static {
+    display: none;
+  }
+
+  // hide download button
+  a {
+    display: none;
+  }
+
+  @page {
+    margin: 10px 35px;
+  }
+}
+
+/* screen view */
+@media screen {
+  * {
+    box-sizing: border-box;
+  }
+
+  html, body {
+    background: #eee;
+    color: #222;
+  }
+
+  nav {
+    a {
+      color: black;
+    }
+
+    .menu {
+      span {
+        background-color: black;
+      }
+    }
+  }
+
+.sub-menu {
+  li {
+    a {
+      color: black;
+    }
+  }
+}
+
+.open {
+  span:nth-child(2) {
+    background-color: #f0f0f5;
+  }
+}
+
+  #resume {
+    font-family: 'Lato', sans-serif;
+    line-height: 26px;
+    font-size: 14px;
+    display: block;
+    position: absolute;
+    max-width: 700px;
+    overflow: auto; // temporary: scrollbar
+    background: #fff;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    box-shadow: 1px 1px 2px #DAD7D7;
+    border-radius: 3px;
+    padding: 40px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+
+  /* main content */
+  .content {
+    line-height: 20px;
+  }
+
+  /* download button container */
+  #download {
+    width: 100%;
+    bottom: 40px;
+    position: fixed;
+    text-align: center;
+
+    a {
+      padding: 5px;
+      text-decoration: none;
+      color: #54AFE4;
+      font-size: 20px;
+      font-weight: 600;
+    }
+  }
+}
+
+/* screen and print view */
+@media screen, print {
+  .header {
+    margin-bottom: 20px;
+    text-align: center;
+
+    .name {
+      font-size: 30px;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+      font-weight: 700;
+    }
+
+    .about {
+      font-style: italic;
+    }
+
+    .contact {
+      padding-top: 5px;
+
+      span#mail {
+        padding-right: 80px;
+      }
+
+      #mail-ico {
+        vertical-align: -1px;
+      }
+
+      #web-ico {
+        vertical-align: -3px;
+      }
+    }
+  }
+
+  .content {
+    hr {
+      margin-bottom: 12px;
+    }
+
+    .title {
+      letter-spacing: 2px;
+      color: #54AFE4;
+      font-weight: bold;
+      font-size: 16px;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+    }
+
+    .entry {
+      margin-bottom: 10px;
+
+      .name {
+        font-weight: bold;
+      }
+
+      .details {
+        color: #999;
+        margin-bottom: -5px;
+      }
+    }
+
+    // remove indentation
+    ul {
+      padding-left: 1.2em;
+    }
+
+    // pad bottom of education section
+    #education {
+      margin-bottom: 18px;
+    }
+
+    // modify default ul formatting
+    #skills-list {
+      margin-top: -2px;
+    }
+  }
+
+  footer {
+    display: none;
+  }
+}

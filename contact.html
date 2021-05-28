@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>BC | Contact</title>
+
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon32.ico">
+    <link rel="stylesheet" type="text/css" href="assets/css/main.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+  </head>
+
+  <body>
+    <div id="content-full">
+      <div class="form-container">
+        <form id="contact" action="https://formspree.io/brian@brian-cooper.com" method="post">
+          <h3>Contact Me</h3>
+          <p>Please use the form below if you would like to get in touch. You can also reach me on <a href="https://www.linkedin.com/in/coopbri">LinkedIn</a> or <a href="mailto:brian@brian-cooper.com?Subject=Personal%20Website%20Contact">email</a> me directly.</p>
+          <fieldset>
+            <input name="name" placeholder="Full Name" type="text" tabindex="1" required autofocus />
+          </fieldset>
+
+          <fieldset>
+            <input name="email" placeholder="Email Address (Optional)" type="email" tabindex="2" />
+          </fieldset>
+
+          <!-- <fieldset> -->
+            <!-- <input name="phone" placeholder="Phone Number (Optional)" type="tel" tabindex="3" /> -->
+          <!-- </fieldset> -->
+
+          <fieldset>
+            <textarea name="message" placeholder="Type Your Message Here..." maxlength="500" tabindex="4" required /></textarea>
+          </fieldset>
+
+          <fieldset>
+            <button name="submit" type="submit" id="contact-submit"
+             data-submit="Your message has been sent! I will respond to you
+             as soon as possible. :)">Submit</button>
+            <button name="clear" onclick="clearForm()" value="Reset">Clear</button>
+            <script>function clearForm() {document.getElementById("contact").reset();}</script>
+          </fieldset>
+          <h4>If you would like to send an encrypted message, my PGP key is <a href="assets/pubkey.asc" type="text/plain">here</a>.</h4>
+        </form>
+      </div>
+    </div>
+
+    <!-- main nav and footer, loaded from core.html -->
+    <div class="core-static"></div>
+  </body>
+</html>

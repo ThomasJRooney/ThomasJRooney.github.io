@@ -1,0 +1,365 @@
+$bg-color: #17202A;
+$hover-color: #16a085;
+$text-color: #DBDBDB;
+
+html, body {
+  height: 100%;
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: $bg-color;
+}
+
+#background {
+  background-image: url("../img/fern.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0; // For fade
+}
+
+nav {
+  width: 100%;
+
+  li {
+    display: inline-block;
+  }
+
+  a {
+    color: $text-color;
+    display: inline-block;
+    padding: 25px 25px;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: $hover-color;
+  }
+
+  #index-static {
+    color: $text-color;
+    padding: 25px 25px;
+  }
+
+  // mobile: center name and nav
+  @media only screen and (max-width: 930px) {
+    position: absolute;
+    text-align: center;
+
+    // hide name
+    #index-static {
+      display: none;
+    }
+  }
+
+  #nav-left {
+    ul {
+      list-style-type: none;
+      letter-spacing: 3px;
+      margin: 0;
+      padding: 0px 25px;
+      float: left;
+
+      // mobile
+      @media only screen and (max-width: 930px) {
+        // hide long name, show initials
+        #name-long {
+          display: none;
+        }
+      }
+
+      // desktop
+      @media only screen and (min-width: 931px) {
+        // hide initials, show long name
+        #name-short {
+          display: none;
+        }
+      }
+    }
+  }
+
+  #nav-right {
+    ul {
+      margin: 0;
+    }
+
+    // desktop: float nav to right, adjust spacing/padding
+    @media only screen and (min-width: 931px) {
+      float: right;
+      padding: 25px 25px;
+      letter-spacing: 3px;
+    }
+  }
+}
+
+.menu {
+  // desktop: expand menu
+  @media only screen and (min-width: 931px) {
+    display: none;
+  }
+
+  position: fixed;
+  top: 40px;
+  right: 40px;
+  width: 50px;
+  height: 50px;
+  display: block;
+  cursor: pointer;
+  transition: opacity 0.2s linear;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  span {
+    display: block;
+    float: left;
+    clear: both;
+    height: 4px;
+    width: 40px;
+    border-radius: 40px;
+    background-color: white;
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    overflow: hidden;
+    transition: all 0.4s ease;
+
+    // top bar
+    &:nth-child(1) {
+      z-index: 1;
+    }
+
+    // middle bar
+    &:nth-child(2) {
+      margin-top: 15px;
+    }
+
+    // bottom bar
+    &:nth-child(3) {
+      margin-top: 30px;
+    }
+  }
+}
+
+.sub-menu {
+  transition: all 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  height: 0;
+  width: 0;
+  right: 0;
+  top: 0;
+  position: absolute;
+  border-radius: 50%;
+  overflow: hidden;
+
+    li {
+      display: block;
+      float: right;
+      clear: both;
+      height: auto;
+      margin-right: -160px;
+      transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+      &:first-child {
+        margin-top: 180px;
+      }
+
+      &:nth-child(1) {
+        -webkit-transition-delay: 0.05s;
+      }
+
+      &:nth-child(2) {
+        -webkit-transition-delay: 0.10s;
+      }
+
+      &:nth-child(3) {
+        -webkit-transition-delay: 0.15s;
+      }
+
+      &:nth-child(4) {
+        -webkit-transition-delay: 0.20s;
+      }
+
+      &:nth-child(5) {
+        -webkit-transition-delay: 0.25s;
+      }
+
+      a {
+        color: #fff;
+        font-size: 18px;
+        padding-top: 15px;
+        width: 100%;
+        display: block;
+        float: left;
+        line-height: 40px;
+      }
+    }
+  }
+
+.open {
+  .sub-menu {
+    opacity: 1;
+    height: 400px;
+    width: 400px;
+  }
+
+  a {
+    padding: 0;
+  }
+
+  span:nth-child(2) {
+    overflow: visible;
+  }
+
+  span:nth-child(1), span:nth-child(3) {
+    transform: rotate(45deg);
+  }
+
+  span:nth-child(1) {
+    transform: rotate(45deg) translateY(12px) translateX(12px);
+  }
+
+  span:nth-child(2) {
+    height: 400px;
+    width: 400px;
+    right: -160px;
+    top: -160px;
+    border-radius: 50%;
+    background-color: #009999;
+  }
+
+  span:nth-child(3) {
+    transform: rotate(-45deg) translateY(-10px) translateX(10px);
+  }
+
+  li {
+    margin-right: 168px;
+  }
+}
+
+.expanded {
+  @media only screen and (max-width: 930px) {
+    display: none;
+  }
+}
+
+#fadein {
+  opacity: 0; /* For fade */
+}
+
+#content {
+  color: $text-color;
+  font-size: 1.2em;
+  width: 50%;
+  height: 40%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  margin: auto;
+  overflow: auto;
+
+  /* For mobile */
+  @media only screen and (max-width: 640px) {
+    margin-top: 25%;
+    width: 80%;
+    font-size: 1em;
+    height: 70%;
+  }
+
+  #about {
+    opacity: 0;
+
+    // remove indentation
+    ul {
+      padding-left: 1.2em;
+    }
+  }
+
+  a {
+    text-decoration: none;
+    color: $hover-color;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  .form-container {
+    width: 100%;
+	  margin: 0 auto;
+	  position: relative;
+    text-align: center;
+    opacity: 0;
+
+    #contact {
+      h3 {
+      	display: block;
+      	font-size: 30px;
+        font-weight: 400;
+
+        @media only screen and (max-width: 640px) {
+          display: none;
+        }
+      }
+
+      h4 {
+        padding-top: 5px;
+        margin: 5px 0 15px;
+        display: block;
+        font-size: 13px;
+      }
+
+      fieldset {
+        border: medium none !important;
+        margin: 0 0 10px;
+        min-width: 100%;
+        padding: 0;
+        width: 100%;
+      }
+
+      input {
+        width: 90%;
+      }
+
+      textarea {
+        height: 100px;
+        width: 90%;
+        resize: none;
+        font-family: Helvetica, sans-serif;
+        font-size: 13px;
+      }
+    }
+  }
+}
+
+#content-full {
+  @extend #content;
+  overflow: visible;
+}
+
+footer {
+  text-align: center;
+  letter-spacing: 1px;
+  color: $text-color;
+  width: 100%;
+  bottom: 8px;
+  position: fixed;
+
+  // Collapse margin between buttons and text
+  h4 {
+    margin-top: 5px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .social-button {
+    width: 24px;
+    height: 24px;
+    padding: 0 10px 0 0;
+  }
+}
