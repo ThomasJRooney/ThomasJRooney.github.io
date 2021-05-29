@@ -5,29 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Thomas Rooney</title>
-    <style>
-    div.gallery {
-      margin: 5px;
-      border: 1px solid #ccc;
-      float: left;
-      width: 180px;
-    }
-
-    div.gallery:hover {
-      border: 1px solid #777;
-    }
-
-    div.gallery img {
-      width: 100%;
-      height: auto;
-    }
-
-    div.desc {
-      padding: 15px;
-      text-align: center;
-    }
-    </style>
-
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
     <link rel="stylesheet" type="text/css" href="assets/css/main.min.css">
 
@@ -39,33 +16,38 @@
     <!-- main nav and footer, loaded from core.html -->
     <div class="core"></div>
 
-    <div class="gallery">
-      <a target="_blank" href="img_5terre.jpg">
-        <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-      </a>
-      <div class="desc">Add a description of the image here</div>
-    </div>
-
-    <div class="gallery">
-      <a target="_blank" href="img_forest.jpg">
-        <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-      </a>
-      <div class="desc">Add a description of the image here</div>
-    </div>
-
-    <div class="gallery">
-      <a target="_blank" href="img_lights.jpg">
-        <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-      </a>
-      <div class="desc">Add a description of the image here</div>
-    </div>
-
-    <div class="gallery">
-      <a target="_blank" href="img_mountains.jpg">
-        <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-      </a>
-      <div class="desc">Add a description of the image here</div>
-    </div>
     <div id="background"></div>
+    section.Grid
+  - for (var i=0; i<3; i++)
+    .Grid-row
+      - for (var j=0; j<3; j++)
+        - var id = (i*3 + j + 1)
+        a.Card(onClick="openGallery("+id+")", id="card-"+id)
+          .Card-thumb
+            .Card-shadow
+            .Card-shadow
+            .Card-shadow
+            .Card-image(style="background-image: url(https://robohash.org/"+id+")")
+          .Card-title
+            span Super interesting card
+          .Card-explore
+            span Explore 50 more
+          button.Card-button view more
+
+- for (var i=1; i<=9; i++)
+  section.Gallery(id="gallery-"+i)
+    .Gallery-header
+      a.Gallery-close(onclick="closeAll()") ×
+    .Gallery-images
+      .Gallery-left
+        .Gallery-image
+        .Gallery-image
+      .Gallery-image.Gallery-image--primary(style="background-image: url(https://robohash.org/"+i+")")
+
+    - for (var j=1; j<=4; j++)
+      .Gallery-images
+        .Gallery-image
+        .Gallery-image
+        .Gallery-image
   </body>
 </html>
