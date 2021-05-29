@@ -26,7 +26,9 @@ $(document).ready(function() {
 		$('.menu').removeClass('open');
 		event.stopPropagation();
 	});
-  function openGallery(id) {
+});
+
+function openGallery(id) {
   closeAll();
   const gallery = document.getElementById('gallery-'+id);
   const card = document.getElementById('card-'+id);
@@ -44,4 +46,3 @@ function closeAll() {
     cardActv.classList.remove('Card--active');
   }
 }
-});
