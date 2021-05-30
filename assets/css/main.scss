@@ -65,7 +65,7 @@ nav {
       // mobile
       @media only screen and (max-width: 930px) {
         // hide long name, show initials
-        #name-long {
+        #name--long {
           display: none;
         }
       }
@@ -73,7 +73,7 @@ nav {
       // desktop
       @media only screen and (min-width: 931px) {
         // hide initials, show long name
-        #name-short {
+        #name--short {
           display: none;
         }
       }
