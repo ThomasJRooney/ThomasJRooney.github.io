@@ -1,6 +1,8 @@
 $(document).ready(function() {
   $('.core').load("core.html", function() {
     $(".core #fadein").delay(900).animate({"opacity": "1"}, 700);
+  });
+  $('.footer').load("footer.html", function() {
     $("footer").delay(900).animate({"opacity": "1"}, 700);
   });
   $('.core-static').load("core-static.html");
